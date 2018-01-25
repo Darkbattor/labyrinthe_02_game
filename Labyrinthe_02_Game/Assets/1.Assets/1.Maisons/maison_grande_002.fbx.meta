@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 7e86b747af8fa0b42a827adde326aecd
-timeCreated: 1516359398
+guid: 699a33c2953b6914486ff8f3e51eab7d
+timeCreated: 1516803609
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -108,8 +108,8 @@ ModelImporter:
     100200: transform97
     100202: transform98
     100204: transform99
-    400000: //RootNode
-    400002: maison_grande_001
+    400000: maison_grande_001
+    400002: //RootNode
     400004: pCube434
     400006: pCube435
     400008: pCube436
@@ -212,12 +212,8 @@ ModelImporter:
     400202: transform98
     400204: transform99
     2300000: maison_grande_001
-    2300002: //RootNode
     3300000: maison_grande_001
-    3300002: //RootNode
     4300000: maison_grande_001
-    4300002: Maison_grande_001
-    4300004: Maison_grande_01
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: ad6c983ab8e77124ba2b019822592ae9
-timeCreated: 1513948566
+guid: b31d17d4dd15a874ba1b206abd8fed2c
+timeCreated: 1516808227
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,8 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: PHARE
-    4300002: Phare
+    4300000: Lampadaire_A0
   materials:
     importMaterials: 1
     materialName: 0
